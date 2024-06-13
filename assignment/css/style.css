@@ -211,6 +211,7 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   color: #ffffff;
+  background-color: transparent;
 }
 
 .slider_section #carouselExampleIndicators {
